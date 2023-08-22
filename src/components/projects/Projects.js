@@ -15,7 +15,7 @@ const Projects = () => {
           des="My Projects"
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+      {/* <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="IPL-Win-Predictor"
           des=" A ML project using logistic regression to find out the win probability of the chasing team in an IPL match. Used Kaggle dataset from 2008-2019."
@@ -59,7 +59,7 @@ const Projects = () => {
           githubLink="https://github.com/mihirc0111/Face-Detection-ML-Project-Python.git"
           websiteLink=""
         />
-      </div>
+      </div> */}
     </section>
   );
 }
