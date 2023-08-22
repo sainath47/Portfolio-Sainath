@@ -15,30 +15,25 @@ const Education = () => {
           <p className="text-sm text-designColor tracking-[4px]">2005 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Educational Qualification</h2>
         </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-14 w-full h-[940px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BTech in Information Technology"
-            subTitle="Veermata Jijabai Technological Institute (2020 - 2024)"
-            result="7.5 CPI"
-            des="Studied IT related subjects like Operating Systems, DBMS, OOPS, ML, Web Development, AI, DSA, Compiler Design etc."
+            title="B.Tech"
+            subTitle="Maharishi Dayanand University (2014 - 2018)"
+            result="7.5 CGPA"
+            des="Gained the skill to understand & gaining technology/subjects as quickly as possible, since the there used to 6 subjects in one semester & 1 semster less than 4 months & huge 6 books of each subjects & passing the exams with flying colors in college where passing % was 2.5%(5 all clear with 200 students)"
           />
           <ResumeCard
             title="Higher Secondary Education"
-            subTitle="Rustomjee International School and Junior College (2018 - 2020)"
-            result="88.15%"
-            des="Studied in this school from 11th to 12th std. HSC Subjects: PCM, English, Electrical Maintenance, Environment Education. "
+            subTitle="SR International School and Junior College (2012- 2014)"
+            result="87.8%"
+            des="Studied in this school from 11th to 12th std. PCM, Sanskrit, Environment Education. "
           />
-          <ResumeCard
-            title="Primary & Secondary School Education"
-            subTitle="Rustomjee International School (2005 - 2018)"
-            result="94.20% "
-            des="Studied in this school from Nursery to 10th std. SSC Subjects: English, Hindi-French, Marathi, Maths, Science, Social Sciences."
-          />
+
         </div>
       </div>
       {/* part Two */}
 
-      <div>
+      {/* <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2020 - 2023</p>
           <h2 className="text-3xl md:text-4xl font-bold">Certificates</h2>
@@ -63,7 +58,7 @@ const Education = () => {
             des=" Learned basics of Neo4j - a database management system "
           />
         </div>
-      </div>
+      </div> */}
     </motion.div>
   );
 }
