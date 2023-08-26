@@ -11,7 +11,7 @@ const Navbar = () => {
   const [showMenu, setShowMenu]=useState(false)
   return (
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
-      <div className='w-[7%]'>
+      <div className='w-full lg:w-[7%]'>
         <img src={logo} className='rounded-[50%] h-[86px]' alt="logo" />
       </div>
       <div>
