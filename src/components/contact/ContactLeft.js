@@ -54,7 +54,7 @@ const ContactLeft = () => {
           </span>
           <span className="bannerIcon">
             <a
-              href="https://www.linkedin.com/in/mihir-chavan-643615234/"
+              href="https://www.linkedin.com/in/sainath-reddy-4444a7234/"
               target="_blank"
               rel="noopener noreferrer"
             >
