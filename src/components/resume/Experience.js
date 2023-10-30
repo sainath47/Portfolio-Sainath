@@ -31,7 +31,7 @@ const Experience = () => {
             title=" Math Teacher -11th/12th"
             subTitle="Shiksha - (18 June 2018 - 01 September 2021)"
             result="Jankpuri, Delhi"
-            des="Writing Web Scrapping codes to extract required data for website’s database and training ML models. Mode of work: Hybrid."
+            des="Training students in math, from the basics to advanced concepts, I, as a highly energized teacher, loved to help any student who wanted it."
           />
         </div>
       </div>
