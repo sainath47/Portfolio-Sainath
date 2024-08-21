@@ -27,7 +27,7 @@ export const featuresData = [
     id: 4,
     icon: <CgWebsite />,
     title: "Web Development",
-    des: "Have been working on MERN stack for 2.5+years, learned to write quality code while creating various application",
+    des: "Have been working on MERN stack for 5+years, learned to write quality code while creating various application",
   },
   // {
   //   id: 5,
