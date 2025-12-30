@@ -16,23 +16,19 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Backend Developer"
-            subTitle="Greenify - (15 March, 2023 - Present) "
-            result="Noida(Delhi-NCR)"
-            des="Worked as full-stack developer, worked on Web-application Admin panel & 2 Mobile Applications."
+            title="Full-Stack Developer"
+            subTitle="i2e Consulting - (Sep 2023 - Nov 2025) "
+            result="Remote"
+            des="Worked on end-to-end backend development for production applications using Node.js, Strapi 5, and PostgreSQL, covering system architecture, data modeling, API design, and performance optimization. Implemented secure REST and GraphQL APIs with JWT-based authentication and role-based access control. Handled application deployment and operations on AWS using EC2, S3, Lambda, and CloudWatch. Built CI/CD pipelines with Jenkins and Docker, introduced serverless automation workflows, and optimized APIs using Redis caching, indexing, and pagination. Collaborated closely with React and Next.js teams for seamless frontend-backend integration."
           />
           <ResumeCard
-            title="Node.js Developer"
-            subTitle="Razorlabz - (01 September 2021 - 15 March 2022) "
-            result="Gurugram(Delhi-NCR)"
-            des="Wroked on Various Technologies like eg. Swagger, & also Worked with different APIS(of Twitter, LinkedIN & News API), Built a Feature called CONTENT CURATION"
+            title="Full-Stack Developer"
+            subTitle=" - Next Cloudwave Solutions (Sep 2018 - Sep 2023) "
+            result="Hyderbad"
+            des="Developed scalable full-stack applications using Node.js, Express, MongoDB, and PostgreSQL, focusing on backend API development, database design, and performance tuning. Built REST and GraphQL APIs, implemented authentication and role-based access control, and integrated third-party services such as LinkedIn and Twitter APIs. Worked on real-time features using Socket.IO and optimized backend performance for high-traffic usage. Containerized applications using Docker, set up CI/CD pipelines, and collaborated with frontend teams to integrate APIs into React-based interfaces."
           />
-          <ResumeCard
-            title=" Math Teacher -11th/12th"
-            subTitle="Shiksha - (18 June 2018 - 01 September 2021)"
-            result="Jankpuri, Delhi"
-            des="Training students in math, from the basics to advanced concepts, I, as a highly energized teacher, loved to help any student who wanted it."
-          />
+
+
         </div>
       </div>
       {/* <div>
